@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhuhui.club/about/index.html</loc>
+    
+    <lastmod>2020-03-26T18:27:16.416Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhuhui.club/2020/03/27/Test%E5%A4%9A%E7%BA%A7/</loc>
+    
+    <lastmod>2020-03-26T18:11:07.018Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhuhui.club/tags/index.html</loc>
     
     <lastmod>2020-03-26T17:45:39.821Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://zhuhui.club/categories/index.html</loc>
     
     <lastmod>2020-03-26T17:45:39.814Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhuhui.club/about/index.html</loc>
-    
-    <lastmod>2020-03-26T17:45:39.811Z</lastmod>
     
   </url>
   
@@ -68,6 +75,13 @@
     <loc>http://zhuhui.club/Php/index.html</loc>
     
     <lastmod>2020-02-24T07:04:58.693Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhuhui.club/Java/test/test.html</loc>
+    
+    <lastmod>2020-02-24T07:04:50.000Z</lastmod>
     
   </url>
   
